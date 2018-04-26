@@ -1,0 +1,48 @@
+body {
+  background-color: #d3d3d34f;
+  box-sizing: border-box;
+}
+
+header > * {
+  display: inline-block;
+  text-align: center;
+}
+
+
+header {
+  background-color: #FFDCFE;
+}
+
+header > h1 {
+  width: 10%;
+}
+
+header > form {
+  width: 75%;
+}
+
+header > nav {
+  width: 23;
+}
+
+
+.col {
+  float: left;
+  width: 20%;
+  margin: 30px 30px;
+  display: inline-block;
+}
+
+img  {
+  margin: 25px;
+  width: 110%;
+  border-radius: 15%;
+}
+
+
+span {
+      left: 100px;
+      position: relative;
+      color: purple;
+      font-size: 20px;
+}
